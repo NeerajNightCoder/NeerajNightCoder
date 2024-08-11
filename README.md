@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm [Kumar Neeraj]! 👋
 
-<!--
-**NeerajNightCoder/NeerajNightCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Web Developer | 💻 JavaScript Enthusiast | 🎨 UI/UX Advocate
 
-Here are some ideas to get you started:
+I'm a web developer passionate about crafting beautiful, responsive websites and applications. I specialize in JavaScript and enjoy working with modern frameworks like React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-16.8-blue)
+
+- 🔭 I’m currently working on [Your Current Project or Learning Goal].
+- 🌱 I’m currently learning [Docker].
+- 💬 Ask me about React.
+- 📫 How to reach me: https://www.linkedin.com/in/kumar-neeraj-077b36177
+
+
+### 🛠️ Skills
+- **Languages:** ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- **Frameworks:** ![React](https://img.shields.io/badge/React-16.8-blue) ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green)
+- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-5.0-blue) ![VS Code](https://img.shields.io/badge/VS%20Code-1.57-blue)
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajNightCoder&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/kumar-neeraj-077b36177
