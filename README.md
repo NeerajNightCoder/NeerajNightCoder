@@ -12,7 +12,6 @@ I'm a web developer passionate about crafting beautiful, responsive websites and
 - 🔭 I’m currently working on [Your Current Project or Learning Goal].
 - 🌱 I’m currently learning [Docker].
 - 💬 Ask me about React.
-- 📫 How to reach me: https://www.linkedin.com/in/kumar-neeraj-077b36177
 
 
 ### 🛠️ Skills
@@ -23,5 +22,3 @@ I'm a web developer passionate about crafting beautiful, responsive websites and
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajNightCoder&show_icons=true&theme=radical)
 
-### 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/kumar-neeraj-077b36177
