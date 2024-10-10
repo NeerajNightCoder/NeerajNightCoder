@@ -19,6 +19,4 @@ I'm a web developer passionate about crafting beautiful, responsive websites and
 - **Frameworks:** ![React](https://img.shields.io/badge/React-16.8-blue) ![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green)
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-5.0-blue) ![VS Code](https://img.shields.io/badge/VS%20Code-1.57-blue)
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajNightCoder&show_icons=true&theme=radical)
 
